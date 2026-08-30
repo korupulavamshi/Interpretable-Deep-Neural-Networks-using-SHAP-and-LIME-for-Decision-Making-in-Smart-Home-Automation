@@ -21,7 +21,7 @@ The project not only builds predictive models but also explains model decisions 
 The virtual smart home was designed and simulated using Tinkercad.
 
 🔗 Tinkercad Smart Room Design:
-https://www.tinkercad.com/things/hRPzXGGZ5VF-smart-room?sharecode=uulnG78UKgjD3bmNm0H8817tBYx4l82i0Q8qGCEPAW8
+https://www.tinkercad.com/things/5hW1WpSJTfE-smart-room
 
 Sensors Used:
 
